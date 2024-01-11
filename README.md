@@ -1,10 +1,10 @@
-# Supabase REST API Starter Kit
+# Supabase Screenshot API Starter Kit
 This project will help you create a Screenshot API using Supabase Edge Functions.
 
 # What is included inside?
 
 - Skeleton for building a Screenshot API with Puppeteer & Browserless
-- CI/CD template, which handles deployment and database migrations
+- CI/CD template, which handles deployment, database migrations and secrets.
 
 # How to setup:
 
